@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "setup": "@powershell -Command ./create.ps1"
   },
   "author": "",
   "license": "ISC"
